@@ -1,0 +1,16 @@
+{
+    "name": "WebDark",
+    "is_dark": true,
+    "colors": {
+        "username-colors": [
+            "#368bd6",
+            "#ac3ba8",
+            "#0dbd8b",
+            "#e64f7a",
+            "#ff812d",
+            "#2dc2c5",
+            "#5c56f5",
+            "#74d12c"
+          ]
+    }
+}
