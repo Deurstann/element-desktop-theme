@@ -1,5 +1,5 @@
 {
-    "name": "New Dark Mode",
+    "name": "New Dark Mode 2",
     "is_dark": true,
     "colors": {
         "accent-color": "#747ff4",
@@ -15,7 +15,7 @@
         "roomlist-highlights-color": "#4f545c52",
         "roomlist-separator-color": "#40444b",
 
-        "timeline-background-color": "#36393f",
+        "timeline-background-color": "#15191e",
         "timeline-text-color": "#dcddde",
         "secondary-content": "#dcddde",
         "tertiary-content": "#dcddde",
