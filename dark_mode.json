@@ -1,5 +1,5 @@
 {
-    "name": "New Dark Mode 2",
+    "name": "New Dark Mode 3",
     "is_dark": true,
     "colors": {
         "accent-color": "#747ff4",
@@ -30,11 +30,11 @@
         "togglesw-off-color": "#72767d"
     },
     "compound": {
-        "--cpd-color-text-decorative-1": "#005f00",
-        "--cpd-color-text-decorative-2": "#00548c",
-        "--cpd-color-text-decorative-3": "#822198",
-        "--cpd-color-text-decorative-4": "#5d26cd",
-        "--cpd-color-text-decorative-5": "#9f0850",
+        "--cpd-color-text-decorative-1": "#98c379",
+        "--cpd-color-text-decorative-2": "#61afef",
+        "--cpd-color-text-decorative-3": "#c678dd",
+        "--cpd-color-text-decorative-4": "#e06c75",
+        "--cpd-color-text-decorative-5": "#56b6c2",
         "--cpd-color-text-decorative-6": "#9b2200"
     }
 
