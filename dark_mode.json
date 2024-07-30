@@ -1,5 +1,5 @@
 {
-    "name": "New Dark Mode 4",
+    "name": "New Dark Mode",
     "is_dark": true,
     "colors": {
         "accent-color": "#747ff4",
@@ -34,7 +34,7 @@
         "--cpd-color-text-decorative-2": "#61afef",
         "--cpd-color-text-decorative-3": "#c678dd",
         "--cpd-color-text-decorative-4": "#e06c75",
-        "--cpd-color-text-decorative-5": "#56b6c2",
+        "--cpd-color-text-decorative-5": "#1ad6d4",
         "--cpd-color-text-decorative-6": "#e27e2d"
     }
 
